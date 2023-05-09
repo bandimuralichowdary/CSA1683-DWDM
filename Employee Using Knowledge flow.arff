@@ -1,0 +1,23 @@
+@relation employee
+@attribute eid numeric
+@attribute ename {raj,ramu,anil,sunil,rajiv,sunitha,kavitha,suresh,ravi,ramana,ram,kavya,navya,jash,murali}
+@attribute salary numeric
+@attribute exp numeric
+@attribute address {pdtr,kdp,nlr,gnt,bza}
+
+@data
+101,raj,10000,4,pdtr
+102,ramu,15000,5,pdtr
+103,anil,12000,3,kdp
+104,sunil,13000,3,kdp
+105,rajiv,16000,6,kdp
+106,sunitha,15000,5,nlr
+107,kavitha,12000,3,nlr
+108,suresh,11000,5,gnt
+109,ravi,12000,3,gnt
+110,ramana,11000,5,gnt
+111,ram,12000,3,kdp
+112,kavya,13000,4,kdp
+113,navya,14000,5,kdp
+114,jash,17000,4,bza
+115,murali,18000,5,bza
